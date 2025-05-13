@@ -1,18 +1,55 @@
-# Welcome to your steller-shop-oasis project
+# Welcome to to this petty ecom project
 
 ## Project info
+Petty Store is a responsive and interactive e-commerce web application built using React, Tailwind CSS, and ShadCN UI. Inspired by marketplaces like AliExpress, it provides a clean and modern front-end experience, allowing users to explore products, read reviews, and submit their own feedback. This project is hosted on Netlify and serves as a frontend-focused demo of a modern shopping platform.
 
-**URL**: https://lovable.dev/projects/6326255b-64d3-4594-9ed8-8aae2193476d
+**URL**: https://petty-store.netlify.app/products
+
+## 📄 Pages & Features
+🏠 Home
+Welcoming landing page with featured items
+
+Modern layout with responsive design
+
+## 📦 Products
+Grid layout showcasing all available products
+
+Each product links to a dedicated detail page
+
+## 📄 Product Detail Page
+Displays full product information (name, description, image, price, etc.)
+
+User reviews displayed in a clean layout
+
+Add Review form to simulate user interaction
+
+Optionally displays customer avatars or names
+
+## 👥 About Us
+Brief section about the brand/store
+
+Styled with consistent visual tone and user-friendly layout
+
+## 📐 Design & UI
+Built with a component-based architecture using React
+
+Styled entirely with Tailwind CSS for rapid, responsive design
+
+UI components powered by ShadCN UI, offering accessibility and elegant interaction states
+
+Routing handled via React Router for smooth page transitions
+
+## 📌 Future Improvements
+Backend integration for persistent reviews and product data
+
+Authentication for users
+
+Shopping cart and checkout functionality
+
+Search and filter features for products
+
 
 ## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/6326255b-64d3-4594-9ed8-8aae2193476d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -50,24 +87,13 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## 🚀 Tech Stack
+React – Component-based frontend framework
 
-This project is built with:
+Tailwind CSS – Utility-first styling framework
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+React Router – SPA navigation and routing
 
-## How can I deploy this project?
+ShadCN UI – Pre-built accessible components powered by Radix UI
 
-Simply open [Lovable](https://lovable.dev/projects/6326255b-64d3-4594-9ed8-8aae2193476d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Netlify – Deployment platform
