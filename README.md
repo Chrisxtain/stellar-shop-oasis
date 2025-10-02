@@ -3,7 +3,7 @@
 ## Project info
 Petty Store is a responsive and interactive e-commerce web application built using React, Tailwind CSS, and ShadCN UI. Inspired by marketplaces like AliExpress, it provides a clean and modern front-end experience, allowing users to explore products, read reviews, and submit their own feedback. This project is hosted on Netlify and serves as a frontend-focused demo of a modern shopping platform.
 
-**URL**: https://petty-store.netlify.app/products
+**URL**: https://petty-store.netlify.app/
 
 ## 📄 Pages & Features
 🏠 Home
